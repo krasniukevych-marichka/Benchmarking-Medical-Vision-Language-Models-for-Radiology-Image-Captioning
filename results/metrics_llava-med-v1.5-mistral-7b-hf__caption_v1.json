@@ -1,0 +1,14 @@
+{
+  "model": "llava-med-v1.5-mistral-7b-hf",
+  "prompt_id": "caption_v1",
+  "n_samples": 2000,
+  "bleu1": 0.1214,
+  "bleu2": 0.0607,
+  "bleu3": 0.0294,
+  "bleu4": 0.0143,
+  "rougeL": 0.134,
+  "cider": 0.0203,
+  "bertscore_f1": 0.8483,
+  "len_pred_words": 50.3935,
+  "len_ref_words": 22.0345
+}

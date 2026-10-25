@@ -1,0 +1,14 @@
+{
+  "model": "medgemma-4b-it",
+  "prompt_id": "caption_v1",
+  "n_samples": 2000,
+  "bleu1": 0.2224,
+  "bleu2": 0.1179,
+  "bleu3": 0.0622,
+  "bleu4": 0.0324,
+  "rougeL": 0.1906,
+  "cider": 0.1728,
+  "bertscore_f1": 0.8623,
+  "len_pred_words": 20.459,
+  "len_ref_words": 22.0345
+}
