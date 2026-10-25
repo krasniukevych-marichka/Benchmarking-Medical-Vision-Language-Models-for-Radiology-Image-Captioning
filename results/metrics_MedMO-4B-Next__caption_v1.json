@@ -1,0 +1,14 @@
+{
+  "model": "MedMO-4B-Next",
+  "prompt_id": "caption_v1",
+  "n_samples": 2000,
+  "bleu1": 0.223,
+  "bleu2": 0.1404,
+  "bleu3": 0.0907,
+  "bleu4": 0.0599,
+  "rougeL": 0.2863,
+  "cider": 0.605,
+  "bertscore_f1": 0.8851,
+  "len_pred_words": 14.3035,
+  "len_ref_words": 22.0345
+}
